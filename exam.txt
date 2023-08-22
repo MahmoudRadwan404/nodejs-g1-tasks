@@ -42,11 +42,15 @@ question3-
 
 question 4:
 1-
-2-laydie hallie
+2-error
 3-6 8
-4-
-
-
+4-error
+5- bool string 
+6- 0 1 4 2 3
+7-
+8-hello world  10
+9-[59.52,82.7,93]
+10-batman,bane
 
 question 5
 1-

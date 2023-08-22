@@ -1,0 +1,103 @@
+1-hoisting :before implementating file: declare functions(function declaration style not first class one) and variables without giving them values (before assignment)
+   (var is the only one declared)in hoisting but no value is given to it (it gives undefined in var if you console.log it) but in(let and const)it gives an error
+  if the function is nested it declares the outer one.
+2- to refere to the parent class
+3- all of the for declaring variables but differs in the scope 
+let:dont allow hoisting but var does and is has local scope not globel
+var:global scope allw hoisting 
+const :have one value doesnt allow ro be rewritten
+4-
+allow to have many parameters,arrow function return single comand and while using in classes you dont need to store (this word )to use it in nested functions
+5-
+
+
+
+
+
+
+question2:
+1-true
+
+2-false abstraction
+
+3-true
+
+4-false
+
+5-false
+
+6-true
+7-true
+8-true
+
+
+
+question3-
+
+1-1
+2-2
+
+
+
+
+question 4:
+1-
+2-laydie hallie
+3-6 8
+4-
+
+
+
+question 5
+1-
+function len(str){
+if(str==""){
+    return 0;
+}
+else {len(str.substring(1))+1;}
+
+}
+
+let s="hallo";
+
+console.log(len(s));
+2-
+for(let i=1;i<=12;i++){
+for(let j=1;1<=12;j++){
+    console.log(`${i}*${j}=${i*j}
+    `)
+}
+}
+
+
+3-
+function odd(arr){
+for(let i=0;i<arr.length;i++){
+if(i%2!=0)
+console.log(arr[i]);
+}
+
+
+4-
+function prime(num){
+for(i=2;i*i<num;i++){
+if(num%i==0)return false;
+
+
+}
+return true;
+}
+
+5-
+let c=0;
+function Nvol(str){
+for(let i=0;i<str.length;i++){
+if(str[i]=='a'||str[i]=='e'||str[i]=='i'||str[i]=='o'||str[i]=='u')
+{c++;
+}
+}
+}
+
+}
+
+6-

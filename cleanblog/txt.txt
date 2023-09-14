@@ -1,0 +1,6 @@
+routs:contains the endpoints.
+controller:between model and view.logic of the program.
+model:work with database.
+view:ui.
+routs>controller>model>view.
+

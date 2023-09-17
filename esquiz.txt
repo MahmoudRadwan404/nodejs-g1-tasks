@@ -1,0 +1,20 @@
+1-650,440,120,40
+2-26
+3-30
+4-[59.34, 83.7, 93]
+5-true,false
+6-error
+7-['bat', 'bane']
+8-number
+function
+ undefined
+ object
+object
+9-
+10-Anonymous, 18, ,0
+
+11- ['White', 'black', 'grey'],false
+12-2,undefined
+13-{firstname: 'john', lastname: 'doe'}
+{firstname: 'john', lastname: 'doe'}
+14-1,error 
